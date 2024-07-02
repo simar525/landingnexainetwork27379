@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://nexai.stunning.so/$1"
+ }
+  ]
+}
